@@ -14,6 +14,14 @@ to understand how the program checks for registration.
 This was not hacking for illegal use.  
 It was just a **lab exercise** to learn and test the process.  
 
+## Requirements
+- ILSpy
+- Python
+- pip install wmi
+
+
+CPU ProcessorId → System Code → Registration Code → Registry Key
+
 ## Steps I Did
 
 1. **Get the test file**  
